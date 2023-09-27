@@ -1,1 +1,1 @@
-"# Kurye" 
+Deliveryzi Kurye Application
